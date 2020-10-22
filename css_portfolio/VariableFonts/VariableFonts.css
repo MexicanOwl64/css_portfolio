@@ -1,0 +1,11 @@
+.font1{
+  font-variation-settings: 'wght' 375, 'GRAD' 88;
+  color:green;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+.font2{
+  font-variation-settings: 'wght' 375, 'GRAD' 20;
+  color:red;
+  font-size: 40px;
+  font-family: 'Courier New', Courier, monospace
+}

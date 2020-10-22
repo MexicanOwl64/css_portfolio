@@ -1,0 +1,12 @@
+div {
+  width: 100px;
+  height: 200px;
+  background: red;
+  transition: width 30s;
+}
+.box {
+  width: 100px;
+  height: 100px;
+  margin: 10px;
+  border: 2px solid black;
+}

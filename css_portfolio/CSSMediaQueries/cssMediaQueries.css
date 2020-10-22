@@ -1,0 +1,15 @@
+@media only screen and (max-width: 600px) {
+  body {
+    background-color: blue;
+  }
+
+  .col-1 {
+    width: 500px;
+    background-color:green;
+  }
+  .col-2 {
+    width: 650px;
+    background-color:red;
+  }
+
+}

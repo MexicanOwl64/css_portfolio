@@ -1,0 +1,17 @@
+a.highlight:hover {
+  color: #ff0000;
+}
+
+a.hover{
+  color: green;
+}
+
+div:hover {
+  background-color: blue;
+}
+
+p {
+  display: none;
+  background-color: yellow;
+  padding: 20px;
+}
